@@ -11,7 +11,7 @@ package pboif2.pkg10119058.latihan32.daftarfilm;
  * NAMA     : Caraka Muhamad Rahman
  * KELAS    : PBOIF2
  * NIM      : 10119058
- * Deskripsi Program :
+ * Deskripsi Program : Program ini berisi program untuk menampilkan daftar film.
  */
 public class Film {
     String filmName;
